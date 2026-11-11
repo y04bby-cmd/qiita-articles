@@ -1,18 +1,18 @@
 ---
 title: Python基本コマンド(print編)
 tags:
-  - 'Python'
-  - '初心者'
+  - Python
+  - 初心者
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-11-11T12:16:24+09:00'
+id: a6fedc61a09fe2ed2a38
 organization_url_name: null
 slide: false
 ignorePublish: false
 posting_campaign_uuid: null
 agreed_posting_campaign_term: false
 ---
-# python基本関数
+# python基本関数(print編)
 ## print
 標準出力を行う関数です。
 ```python
